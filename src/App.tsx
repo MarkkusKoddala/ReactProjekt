@@ -16,7 +16,7 @@ const DUMMY_EXPENSES = [
         date: new Date(2021, 2, 12) },
     {
         id: 'e3',
-        title: 'Car ',
+        title: 'Car Man ',
         amount: 294.67,
         date: new Date(2021, 2, 28)},
     {
